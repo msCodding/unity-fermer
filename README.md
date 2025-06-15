@@ -25,6 +25,7 @@
 
 Для скачивания игры на Windows:
 https://disk.yandex.ru/d/MTu2RtQOUj7Hjw
+
 Для скачивания игры на Android:
 https://disk.yandex.ru/d/jUIrPhEQLM6_7g
 
