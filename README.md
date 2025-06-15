@@ -25,7 +25,13 @@
 
 Для скачивания игры на Windows:
 https://disk.yandex.ru/d/MTu2RtQOUj7Hjw
+Для скачивания игры на Android:
+https://disk.yandex.ru/d/jUIrPhEQLM6_7g
 
 Исходный проект:
 https://disk.yandex.ru/d/PUnfPFc_sqJTsQ
+
+Исходный проект под управление android:
+https://disk.yandex.ru/d/lHpoCvmZPgyWAg
+
 ![image](https://github.com/user-attachments/assets/72e3a984-4c64-432c-ae60-514716fbf1e8)
