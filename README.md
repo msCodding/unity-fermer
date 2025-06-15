@@ -13,3 +13,9 @@
 -Смена музыки в зависимости от действий
 -Встроенное меню паузы
 -Поддержка выхода из игры через клавишу Escape
+
+Для скачивания игры на Windows:
+https://disk.yandex.ru/d/MTu2RtQOUj7Hjw
+
+Исходный проект:
+https://disk.yandex.ru/d/PUnfPFc_sqJTsQ
