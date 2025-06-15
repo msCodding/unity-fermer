@@ -19,3 +19,4 @@ https://disk.yandex.ru/d/MTu2RtQOUj7Hjw
 
 Исходный проект:
 https://disk.yandex.ru/d/PUnfPFc_sqJTsQ
+![image](https://github.com/user-attachments/assets/72e3a984-4c64-432c-ae60-514716fbf1e8)
